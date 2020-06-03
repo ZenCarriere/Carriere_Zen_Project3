@@ -1,0 +1,150 @@
+	body 
+	{
+		font-family: Arial, Helvetica, sans-serif;
+		color:white;
+	}
+
+	.hidden 
+	{
+		display: none;
+	}
+
+	#container
+	{
+		width:921px;
+		margin:0 auto;
+	}
+
+	#header 
+	{
+		display:flex;
+		flex-direction: row;
+	}
+
+	#crestLogoTop 
+	{
+		Height:144px;
+		Width:225px;
+		Font-size:40px;
+		text-align:center;
+		background-color: black;
+	}
+
+	#mainNav
+	{
+		margin-top:90px;
+		margin-left:20px;
+		Height:38px;
+		Width:641px;
+		Font-size:25px;
+		text-align:center;
+		background-color: black;
+	}
+
+	#socialMediaTop
+	{
+		Height:63px;
+		Width:192px;
+		Font-size:29px;
+		text-align:center;
+		background-color: black;
+	}
+
+	#hero
+	{
+		Height:501px;
+		Width:921px;
+		Font-size:85px;
+		text-align:center;
+		background-color: black;
+	}
+
+	#bar1, #bar2, #bar3, #bar4
+	{
+		Height:15px;
+		Width:921px;
+		Font-size:11px;
+		text-align:center;
+		background-color: black;
+	}
+
+	#secondPromo
+	{
+		Height:348px;
+		Width:921px;
+		Font-size:85px;
+		text-align:center;
+		background-color: black;
+	}
+
+	#thirdPromo
+	{
+		Height:396px;
+		Width:921px;
+		Font-size:85px;
+		text-align:center;
+		background-color: black;
+	}
+
+
+	#footerTop 
+	{
+		display:flex;
+		flex-direction: row;
+	}
+
+	#connect
+	{
+		margin-top:10px;
+		margin-bottom:10px;
+		Height:30px;
+		Width:180px;
+		Font-size:15px;
+		text-align:center;
+		background-color: black;
+	}
+
+	#socialMediaBot 
+	{
+		margin-left:10px;
+		Height:63px;
+		Width:207px;
+		Font-size:29px;
+		text-align:center;
+		background-color: black;
+	}
+
+	#topButton
+	{
+		margin-top:10px;
+		margin-bottom:10px;
+		margin-left:534px;
+		Height:42px;
+		Width:71px;
+		Font-size:13px;
+		text-align:center;
+		background-color: black;
+	}
+
+	#footerNav
+	{
+		margin-left:148.5px;
+		margin-top:25px;
+		Height:37px;
+		Width:624px;
+		Font-size:15px;
+		text-align:center;
+		background-color: black;
+	}
+
+	#crestLogoBot 
+	{
+		margin-left:349px;
+		margin-top:25px;
+		margin-bottom:25px;
+		Height:120px;
+		Width:223px;
+		Font-size:40px;
+		text-align:center;
+		background-color: black;
+	}
